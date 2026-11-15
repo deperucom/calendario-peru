@@ -2,11 +2,12 @@
 
 Repositorio informativo sobre el calendario diario de eventos y celebraciones publicado por [DePeru.com](https://www.deperu.com) y su endpoint JSON. Documenta la estructura de respuesta observada y muestra ejemplos para consultar los eventos asociados a cada día.
 
-> **Este repositorio es independiente y no está afiliado oficialmente a DePeru.com.** Los datos y el servicio son proporcionados por DePeru.com. Verifica la información en la fuente original antes de depender de ella.
+> **Este repositorio es independiente y no está afiliado oficialmente al gobierno del Perú.** Los datos y el servicio son proporcionados por DePeru.com. Verifica la información en la fuente original antes de depender de ella.
 
 ## Enlaces
 
 - **Calendario:** https://www.deperu.com/calendario/
+- **Página de la API:** https://www.deperu.com/api/
 - **Endpoint JSON:** https://deperu.com/api/rest/calendarioPeru.json
 - **Contacto DePeru.com:** https://deperu.com/contacto
 
