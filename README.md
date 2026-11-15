@@ -2,7 +2,7 @@
 
 Repositorio informativo sobre el calendario diario de eventos y celebraciones publicado por [DePeru.com](https://www.deperu.com) y su endpoint JSON. Documenta la estructura de respuesta observada y muestra ejemplos para consultar los eventos asociados a cada día.
 
-> **Este repositorio es independiente y no está afiliado oficialmente al gobierno del Perú.** Los datos y el servicio son proporcionados por DePeru.com. Verifica la información en la fuente original antes de depender de ella.
+> **Este repositorio es independiente** Los datos y el servicio son proporcionados por DePeru.com. Verifica la información en la fuente original antes de depender de ella.
 
 ## Enlaces
 
